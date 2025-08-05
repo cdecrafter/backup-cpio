@@ -1,6 +1,7 @@
 #!/bin/sh
 #
 # backup-cpio version 1.0 - converted to use cpio instead of afio
+# Copyright (C) 2025 Jörgen Johansson
 #
 #################################################################################
 #
