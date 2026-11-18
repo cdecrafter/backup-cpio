@@ -1,16 +1,14 @@
 #!/bin/sh
 #
+# backup-cpio - backup directories to files using cpio
+#
 # backup-cpio version 1.0 - converted to use cpio instead of afio.
-# Copyright (C) 2025 Jörgen Johansson, distributed under the
-# terms of the GNU GPL license, available at http://www.gnu.org/licenses/gpl.html
+# Distributed under the terms of the GNU GPL license, available at
+# http://www.gnu.org/licenses/gpl.html
 #
 #Link to version 0.93 https://github.com/tonoono/backup-afio
 #
 #Link to version 0.92 http://danielwebb.us/software/backup/backup-afio#
-#
-#################################################################################
-#
-# backup-cpio - backup directories to files using cpio
 #
 #################################################################################
 # backup-afio version 0.93 - fixed some issues with the file not properly running
@@ -23,6 +21,7 @@
 # backup-afio version 0.92 - backup stuff in a robust way using afio
 # This software is copyright 2005 Daniel M. Webb, and distributed under the
 # terms of the GNU GPL license, available at http://www.gnu.org/licenses/gpl.html
+#
 THIS=backup-cpio
 PATH=$PATH:/bin:/sbin:/usr/bin:/usr/sbin
 DATE_STRING=$(date +%F.%H-%M)
