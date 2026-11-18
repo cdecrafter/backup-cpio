@@ -1,6 +1,8 @@
 #!/bin/sh
 #
-# backup-cpio - backup directories to files using cpio
+# backup-cpio - backup directories to files using cpio.
+#
+# Derived from backup-afio.
 #
 # backup-cpio version 1.0 - converted to use cpio instead of afio.
 # Distributed under the terms of the GNU GPL license, available at
