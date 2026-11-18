@@ -6,9 +6,9 @@
 # Distributed under the terms of the GNU GPL license, available at
 # http://www.gnu.org/licenses/gpl.html
 #
-#Link to version 0.93 https://github.com/tonoono/backup-afio
+# Link to version 0.93 https://github.com/tonoono/backup-afio
 #
-#Link to version 0.92 http://danielwebb.us/software/backup/backup-afio#
+# Link to version 0.92 http://danielwebb.us/software/backup/backup-afio#
 #
 #################################################################################
 # backup-afio version 0.93 - fixed some issues with the file not properly running
